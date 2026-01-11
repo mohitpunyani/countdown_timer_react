@@ -24,4 +24,9 @@ This project allows users to set a target time and watch the countdown update in
 ---
 
 
+## 📸 Screenshot
+
+![Countdown Timer Preview](./screenshots/InputTimer.png)
+![Countdown Timer Preview](./screenshots/ShowTimer.png)
+![Countdown Timer Preview](./screenshots/PauseAndResume.png)
 
