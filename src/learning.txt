@@ -1,0 +1,7 @@
+frontendeval.com
+steps to appraoch
+learning -> onclick ,on change events
+conditional rendering, use state , useeffect, settimeout , set interval
+logic to start and stop the timer 
+props, breakdown into components
+
